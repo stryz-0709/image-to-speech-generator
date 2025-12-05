@@ -1,0 +1,19 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+.venv/
+.env
+.env.*
+
+# OS / tooling
+.DS_Store
+
+# Project data to keep out of git
+code/static/audio/
+code/static/uploads/
+code/trained_model/
+report/
+
